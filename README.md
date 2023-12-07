@@ -2,5 +2,5 @@
 My first repository
 | Syntax | Description |
 | ----------- | ----------- |
-| Header | Sausage party |
-| Paragraph | Gore movie |
+| Title | Sausage party |
+| Genre | Gore movie |
